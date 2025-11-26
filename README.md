@@ -32,7 +32,7 @@
 
 > 📢 区块链技术咨询与支持：
 > - 官网：[Crypto8848.com](https://crypto8848.com)
-> - Telegram：[@recoverybtc](https://t.me/recoverybtc)
+> - Telegram：[@web3libs](https://t.me/web3libs)
 > - 业务范围：DeFi协议开发、DApp定制开发、智能合约开发、算法稳定币开发等
 > - 24/7 专业技术支持，打造您的 Web3 创新项目
 
